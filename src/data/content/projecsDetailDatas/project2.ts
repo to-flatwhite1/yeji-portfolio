@@ -1,7 +1,7 @@
 export const project2 = {
-  name: 'Shopping Mall project',
+  name: 'Van Cleef & Arpels Renewal',
   pointcolor: 'before:bg-[#DDF1EF]',
-  title: 'Van Cleef & Arpels Renewal',
+  title: 'Shopping Mall project',
   subtext:
     '쇼핑몰 프로젝트로 Van Cleef & Arpels 을 리뉴얼하는 작업입니다. \n 브랜드의 고급스러움을 강조하며 현대적인 디자인으로 새롭게 만들었습니다.',
   data: '2025.03 - 진행중 (70% 완성)',
@@ -19,33 +19,23 @@ export const project2 = {
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_signup.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/vancleef_signup.webp',
       subject: '회원가입',
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/ReelPick_login.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/vancleef_login.webp',
       subject: '로그인',
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_membership.webp',
-      subject: '멤버십',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/vancleef_detail.webp',
+      subject: '상품 리스트 페이지',
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_mypage.webp',
-      subject: '마이페이지',
-    },
-    {
-      imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_playList.webp',
-      subject: '영화 플레이리스트',
-    },
-    {
-      imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_playList_detail.webp',
-      subject: '영화 상세페이지',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/vancleef_deailpage.webp',
+      subject: '상품 상세페이지',
     },
   ],
   featinfo: [
