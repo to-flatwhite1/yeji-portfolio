@@ -8,7 +8,7 @@ export const projectData = [
     name: project2.name,
     type: 'team',
     title: project2.title,
-    subject: '영화 감상 OTT Platform',
+    subject: 'Shopping Mall project',
     tag: project2.tag,
     imgurl: project2.imgurl,
     giturl: project2.giturl,

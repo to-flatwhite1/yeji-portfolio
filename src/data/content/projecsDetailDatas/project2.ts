@@ -1,20 +1,20 @@
 export const project2 = {
   name: 'Shopping Mall project',
-  pointcolor: 'before:bg-[##DDF1EF]',
+  pointcolor: 'before:bg-[#DDF1EF]',
   title: 'Van Cleef & Arpels Renewal',
   subtext:
-    '쇼핑몰 프로젝트로 Van Cleef & Arpels 을 리뉴얼하는 작업입니다. \n 브랜드의 고급스러움을 강조하며 현대적인 디자인으로 공간을 새롭게 조성합니다.',
+    '쇼핑몰 프로젝트로 Van Cleef & Arpels 을 리뉴얼하는 작업입니다. \n 브랜드의 고급스러움을 강조하며 현대적인 디자인으로 새롭게 만들었습니다.',
   data: '2025.03 - 진행중 (70% 완성)',
   team: '4인 (프론트엔드 4명)',
   tag: ['팀'],
   imgurl:
-    'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick.webp',
+    'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/vancleef_main.webp',
   giturl: 'https://github.com/msun97/project-vancleef',
   deployurl: 'https://project-vancleef.vercel.app/',
   detailimginfo: [
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/vancleef_main.webp',
       subject: '메인 화면',
     },
     {
@@ -49,10 +49,10 @@ export const project2 = {
     },
   ],
   featinfo: [
-    'tmdb API를 활용해 영화 표출',
-    '시청기록 찜 기능',
-    '원하는 영화 검색 가능',
-    '회원 가입 프로필 추가, 로그인 로그아웃 구현',
+    '반클리프 아펠 홈페이지에서 data 수집',
+    '구매하기 찜 기능',
+    '입력한 상품 검색 가능',
+    '회원 가입, 프로필 비밀번호 변경, 로그인 로그아웃 구현',
   ],
   tools: [
     {
@@ -76,9 +76,9 @@ export const project2 = {
         '애플리케이션에서 상태 관리를 단순화해주는 라이브러리입니다. 애플리케이션의 상태를 중앙에서 관리하며, 상태 변경을 예측 가능한 방식으로 처리할 수 있도록 도와줍니다. 이를 통해 여러 컴포넌트 간의 상태 공유와 복잡한 상태 변경 로직을 효율적으로 관리할 수 있습니다.',
     },
     {
-      title: 'Styled Components',
+      title: 'Tailwind Css',
       detail:
-        'Styled Components는 JavaScript 코드 내에서 CSS를 작성할 수 있게 해주는 라이브러리입니다. 컴포넌트와 스타일을 함께 정의해 컴포넌트 별로 스타일을 관리하고 재사용할 수 있습니다.',
+        'Tailwind CSS는 theme 설정을 통해 변수처럼 색상, 폰트 크기 등을 관리할 수 있어 유지보수가 편리하다. 또한 클래스명을 통해 코드에서 스타일을 즉시 확인할 수 있어 보기 편합니다.',
     },
   ],
   parts: [
@@ -89,10 +89,8 @@ export const project2 = {
       ],
     },
     {
-      title: '플로우차트,와이어프레임',
-      detailList: [
-        `사이트의 흐름을 알 수 있도록 플로우차트를 만들었으며 디자인 작업을 위해  \`Figma\`을 활용해 팀원들과 [flow chart,와이어프레임]을 구체화 함`,
-      ],
+      title: '와이어프레임',
+      detailList: [`디자인 작업을 위해  \`Figma\`을 활용해 팀원들과 [와이어프레임]으로 디자인 구체화 함`],
     },
   ],
 };
