@@ -4,7 +4,7 @@ export const project9 = {
   title: '설화수 웹사이트 리뉴얼',
   subtext:
     '이 프로젝트는 설화수(Sulwhasoo) 웹사이트의 메인 페이지(index.html)와 서브 페이지를 리뉴얼한 작업입니다. \n JavaScript, GSAP, SCSS와 같은 최신 웹 기술을 활용하여 시각적으로 매력적이고 인터랙티브한 사용자 경험을 제공\n또한, 프로젝트 구조 및 파일 관리는 KRDS(디지털 정부서비스 UI/UX 가이드라인)를 참고하여 체계적으로 구성',
-  data: '2024.09 ~ 10월',
+  data: '2024.10월',
   tag: ['개인', '웹', '반응형'],
 
   imgurl:
