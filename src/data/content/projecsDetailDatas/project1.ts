@@ -8,43 +8,43 @@ export const project1 = {
   team: '3인 (프론트엔드 3명)',
   tag: ['팀'],
   imgurl:
-    'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick.webp',
+    'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/Reelpick.webp',
   giturl: 'https://github.com/kksladder/REELPICKott3',
   deployurl: 'https://reelpic-kott3-icpz.vercel.app/',
   detailimginfo: [
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/Reelpick.webp',
       subject: '메인 화면',
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_signup.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/Reelpick_signup.webp',
       subject: '회원가입',
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/ReelPick_login.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/ReelPick_login.webp',
       subject: '로그인',
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_membership.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/Reelpick_membership.webp',
       subject: '멤버십',
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_mypage.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/Reelpick_mypage.webp',
       subject: '마이페이지',
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_playList.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/Reelpick_playList.webp',
       subject: '영화 플레이리스트',
     },
     {
       imgurl:
-        'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/refs/heads/main/src/assets/images/Reelpick_playList_detail.webp',
+        'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/Reelpick_playList_detail.webp',
       subject: '영화 상세페이지',
     },
   ],

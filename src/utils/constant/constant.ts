@@ -1,5 +1,5 @@
 export const ICON_URL =
-  'https://raw.githubusercontent.com/to-flatwhite1/yeji_portfolio-main/main/src/assets/icons/icon_';
+  'https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/icons/icon_';
 
 export const UPDATE_DATA = '25. 03. 11';
 export const EMAILL = 'yeji9209@gmail.com';
