@@ -35,7 +35,7 @@ export default {
         },
       },
       backgroundImage: {
-        main: 'src/assets/images/front_bg.jpg',
+        main: 'url(https://raw.githubusercontent.com/to-flatwhite1/yeji-portfolio/refs/heads/main/src/assets/images/front_bg.webp)',
       },
     },
   },
